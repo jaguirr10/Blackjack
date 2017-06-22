@@ -1,2 +1,2 @@
 # Blackjack
- Simple Blackjack game written in C#
+ A Blackjack game written in C#
